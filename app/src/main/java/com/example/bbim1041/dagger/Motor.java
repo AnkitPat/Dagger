@@ -12,6 +12,7 @@ public class Motor {
     }
 
     public int getRpm(){
+        //a ad fsd
         return rpm;
     }
 
